@@ -1,0 +1,42 @@
+{
+    "HoloLISP":{
+        "Name":"HoloLISP",
+        "BugTestMod":0,
+        "OtherEffects":""
+    },
+    "InterMod":{
+        "Name":"InterMod",
+        "BugTestMod":4,
+        "OtherEffects":"-1 to Programs Effective Rating"
+    },
+    "MatComDev":{
+        "Name":"MatComDev",
+        "BugTestMod":2,
+        "OtherEffects":"+1 to Computer (Programming) Test"
+    },
+    "MCT Iconix 7":{
+        "Name":"MCT Iconix 7",
+        "BugTestMod":-1,
+        "OtherEffects":"-1 to Computer (Programming) Test"
+    },
+    "Metacomm":{
+        "Name":"Metacomm",
+        "BugTestMod":-3,
+        "OtherEffects":"-2 to Computer (Programming) Test"
+    },
+    "Novatech VRDrive 3":{
+        "Name":"Novatech VRDrive 3",
+        "BugTestMod":1,
+        "OtherEffects":"+2 when using Glitch Table"
+    },
+    "Oblong":{
+        "Name":"Oblong",
+        "BugTestMod":3,
+        "OtherEffects":"+2 to Computer (Programming) Test"
+    },
+    "Renraku Teng":{
+        "Name":"Renraku Teng",
+        "BugTestMod":-5,
+        "OtherEffects":"Base time halved"
+    }
+}
